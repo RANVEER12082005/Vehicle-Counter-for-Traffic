@@ -3,6 +3,11 @@
 A computer vision project that automatically detects and counts vehicles (cars, motorcycles, buses, and trucks) in traffic images and videos using **YOLOv8** and **OpenCV**. The system tracks each vehicle with a unique ID to avoid double-counting, overlays bounding boxes and labels in real time, and saves the processed output.
 
 ---
+# preview of the code
+
+
+https://github.com/user-attachments/assets/d7495fbe-0995-43f2-944a-994b8fd376fd
+
 
 ## 📋 Table of Contents
 
